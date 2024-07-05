@@ -10,7 +10,7 @@
     "build": "vite build"
   },
   "keywords": [],
-  "author": "",
+  "author": "steel-feel",
   "license": "ISC",
   "devDependencies": {
     "typescript": "^5.5.3",

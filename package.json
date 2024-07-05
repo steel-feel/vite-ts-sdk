@@ -1,0 +1,19 @@
+{
+  "name": "vite-ts-sdk",
+  "version": "1.0.0",
+  "description": "A template to create vite typescript SDK",
+  "main": "dist/my-library.umd.js",
+  "module": "dist/my-library.es.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite-plugin-dts": "^3.9.1",
+    "typescript": "^5.5.3",
+    "vite": "^5.3.3"
+  }
+}

@@ -8,7 +8,7 @@ export default defineConfig({
       entry: resolve(__dirname, 'src/index.ts'),
       name: 'MyLib',
       formats: ['es', "umd"],
-      fileName: 'my-lib'
+      fileName: 'index'
     }
   },
   plugins: [dts()]

@@ -7,7 +7,6 @@
   "module": "dist/my-library.es.js",
   "types": "dist/index.d.ts",
   "scripts": {
-    "test": "ava",
     "build": "vite build"
   },
   "keywords": [],
